@@ -1,0 +1,17 @@
+{
+  "name": "near_death",
+  "private": true,
+  "author": "Eric Mill <konklone@gmail.com",
+  "description": "Flash your life before your eyes.",
+  "version": "1.0.0",
+  "license": "unlicense",
+  
+  "dependencies": {
+    "optimist": "*",
+    "glob": "*"
+  },
+
+  "engines": {
+    "node": ">=0.6"
+  }
+}
